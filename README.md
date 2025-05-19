@@ -1,3 +1,4 @@
+![Customer Shopping Behavior and Purchasing Pattern Analysis for the Year 2024  Dashboard Screenshot](https://github.com/user-attachments/assets/cf61de99-fa25-4738-bf1c-9d1e80171296)
 # Customer-Shopping-Behaviour-and-Purchasing-Pattern-Analysis-for-the-Year-2024
 This report presents a structured exploration of consumer behavior trends and purchasing patterns using a dataset sourced from Kaggle.com, containing transactional and demographic data from 2024.
 Overview
